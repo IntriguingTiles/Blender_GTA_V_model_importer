@@ -1,0 +1,8 @@
+*.swp
+*.blend1
+*.blend
+logs/
+__pycache__/
+.idea
+.vscode
+.vimrc
